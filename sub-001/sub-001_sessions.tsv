@@ -1,2 +1,2 @@
-session_id
-ses-session+1234
+session_id	original_session_id
+ses-session+1234	ses-session_1234
